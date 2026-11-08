@@ -1,0 +1,98 @@
+Aegis Proprietary Software License
+Version 1.0 — November 8, 2026
+
+Copyright (c) 2026 Brad Murry. All rights reserved.
+
+1. Scope and acceptance
+
+This license governs Aegis products, binaries, updates, documentation, and
+installation metadata distributed with it (the "Software"). Brad Murry is the
+licensor ("Licensor"). By installing, copying, or using the Software, you agree
+to these terms. If you do not agree, do not install, copy, or use the Software.
+
+2. Limited permission to use
+
+Subject to compliance with this license, Licensor grants you a limited,
+non-exclusive, non-transferable, non-sublicensable license to download, install,
+and run the Software for your own personal use or your organization's internal
+business operations. You may make copies reasonably necessary for that use
+and backup, retaining all copyright, license, and proprietary notices.
+
+No license fee is currently charged for this permission. This license does not
+promise free future releases, updates, support, or maintenance. Licensor may
+offer future releases under different terms or pricing; those changes do not
+retroactively alter this license for a release already obtained under it.
+
+3. Restrictions
+
+Without Licensor's prior written permission, you must not:
+
+(a) sell, resell, redistribute, publish, rent, lease, lend, sublicense, or
+otherwise provide the Software or copies of it to any third party;
+(b) embed, incorporate, integrate, or bundle the Software into another product
+or service offered to third parties, whether paid or free;
+(c) offer the Software's functionality to third parties as a hosted service,
+service bureau, managed service, or through an API, or otherwise allow third
+parties to use the Software under your license;
+(d) reverse engineer, decompile, disassemble, decode, or otherwise attempt to
+derive source code, underlying algorithms, or non-public implementation details
+of the Software, or assist others in doing so;
+(e) modify the Software or create derivative works of it, except for configuring
+it through its documented configuration and extension interfaces for the use
+permitted in Section 2; or
+(f) remove or alter proprietary notices or circumvent license, access, or
+technical protection measures.
+
+These restrictions apply to the maximum extent permitted by applicable law.
+They do not restrict conduct that applicable law expressly permits despite a
+contractual prohibition. Internal use of the Software as a tool in your own
+work is permitted; it does not grant permission to distribute the Software or
+provide its functionality as part of another product or service.
+
+4. Ownership and third-party components
+
+The Software is licensed, not sold. Licensor and its licensors retain all
+ownership and intellectual property rights. No source-code, patent, trademark,
+or other rights are granted except as expressly stated here. This is not an
+open-source license.
+
+Third-party components included with the Software are governed by their own
+applicable licenses and notices. This license does not limit rights granted
+by those licenses. It grants no rights to third-party services, accounts,
+models, or content; you are responsible for obtaining those separately.
+
+5. Termination
+
+This license terminates automatically if you breach its terms. Upon
+termination, you must stop using the Software and delete all copies in your
+possession or control. Sections 3 through 8 survive termination.
+
+6. No warranty
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+"AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES OF ANY KIND, EXPRESS, IMPLIED,
+OR STATUTORY, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+TITLE, AND NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL
+BE UNINTERRUPTED, ERROR-FREE, SECURE, OR SUITABLE FOR YOUR NEEDS. YOU ARE
+RESPONSIBLE FOR YOUR USE OF THE SOFTWARE AND FOR REVIEWING ITS OUTPUT.
+
+7. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR SHALL NOT BE LIABLE
+FOR INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL
+DAMAGES, OR LOST PROFITS, REVENUE, DATA, GOODWILL, OR BUSINESS OPPORTUNITIES,
+ARISING FROM OR RELATED TO THE SOFTWARE OR THIS LICENSE, EVEN IF ADVISED OF
+THE POSSIBILITY. LICENSOR'S TOTAL AGGREGATE LIABILITY SHALL NOT EXCEED THE
+GREATER OF THE LICENSE FEES YOU PAID LICENSOR FOR THE SOFTWARE DURING THE
+TWELVE MONTHS BEFORE THE CLAIM AND US $100. THESE LIMITATIONS APPLY REGARDLESS
+OF THE THEORY OF LIABILITY AND DO NOT EXCLUDE LIABILITY THAT CANNOT LAWFULLY
+BE EXCLUDED OR LIMITED.
+
+8. General
+
+This license is the entire agreement concerning the Software unless you have
+a separate written agreement with Licensor that expressly supersedes it. If
+any provision is unenforceable, the remaining provisions remain effective to
+the extent permitted by law. A failure to enforce a provision is not a waiver.
+No rights are granted by implication. Any permission beyond this license must
+be obtained from Licensor in writing.
