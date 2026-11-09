@@ -1,15 +1,15 @@
 class Aegis < Formula
   desc "Terminal UI for Aegis AI agents (no Java or Python install required)"
   homepage "https://github.com/bradodarb/aegis-dist"
-  version "0.1.0"
+  version "0.1.1"
   license "Proprietary"
 
   depends_on :macos
 
   on_macos do
     on_arm do
-      url "https://github.com/bradodarb/aegis-dist/releases/download/v0.1.0/aegis-0.1.0-macos-arm64.tar.gz"
-      sha256 "45b7814ec1b437439c89d16202b295377b6d5b9a1f543cc53f5734404799e5f2"
+      url "https://github.com/bradodarb/aegis-dist/releases/download/v0.1.1/aegis-0.1.1-macos-arm64.tar.gz"
+      sha256 "f68f68a82910a0cdf4deef1e63bd0e8d43c7e724218f88aaa50b5f2cd3a3e4f6"
     end
     on_intel do
       odie "aegis: no macOS x86_64 build yet — see homebrew/README.md"
